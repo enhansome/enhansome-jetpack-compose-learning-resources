@@ -1,0 +1,238 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Docs, Codelabs and Official Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/android/compose-samples",
+          "description": "Official Jetpack Compose Samples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-03T15:34:30Z",
+            "owner": "android",
+            "repo": "compose-samples",
+            "stars": 23373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/androidx/androidx/tree/androidx-master-dev/ui",
+          "description": "Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T11:30:25Z",
+            "owner": "androidx",
+            "repo": "androidx",
+            "stars": 6055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/aosp-mirror/platform_frameworks_support/tree/androidx-master-dev/ui",
+          "description": "AOSP mirror of Git repository on Jetpack Compose.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-10-17T18:03:28Z",
+            "owner": "aosp-mirror",
+            "repo": "platform_frameworks_support",
+            "stars": 1656
+          }
+        }
+      ],
+      "title": "Official Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Gurupreet/ComposeCookBook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-28T12:31:21Z",
+            "owner": "Gurupreet",
+            "repo": "ComposeCookBook",
+            "stars": 6863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Foso/Jetpack-Compose-Playground",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-31T14:29:55Z",
+            "owner": "Foso",
+            "repo": "Jetpack-Compose-Playground",
+            "stars": 3654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-09-04T22:43:30Z",
+            "owner": "vinaygaba",
+            "repo": "Learn-Jetpack-Compose-By-Example",
+            "stars": 3453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/hitherejoe/ComposeAcademy-Playground",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-04-08T05:27:36Z",
+            "owner": "hitherejoe",
+            "repo": "ComposeAcademy-Playground",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-05-09T11:38:19Z",
+            "owner": "SimformSolutionsPvtLtd",
+            "repo": "SSComposeCookBook",
+            "stars": 727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/canopas/Intro-showcase-view",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-12-26T12:14:58Z",
+            "owner": "canopas",
+            "repo": "compose-intro-showcase",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-05-08T20:59:04Z",
+            "owner": "MindorksOpenSource",
+            "repo": "Jetpack-Compose-Android-Examples",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-11-25T15:03:47Z",
+            "owner": "SimformSolutionsPvtLtd",
+            "repo": "SSJetPackComposeProgressButton",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Naveentp/Awesome-Jetpack-Compose",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-17T05:40:56Z",
+            "owner": "Naveentp",
+            "repo": "Awesome-Jetpack-Compose",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/rawhasan/jetpack-compose-exercises",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Slides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Talks, Conferences, and Interviews"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Videos"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Twitch Channels"
+    },
+    {
+      "description": "See contributing.md",
+      "items": [],
+      "title": ":memo: Contributing"
+    },
+    {
+      "description": "Thank you to all the contributors!\nSee AUTHORS",
+      "items": [],
+      "title": ":seedling: Contributors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":computer: Find us on"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:33:01.460Z",
+    "original_repository": "androiddevnotes/awesome-jetpack-compose-learning-resources",
+    "original_repository_sha": "4144b8d4cf220a5d1b1131dc88f3a647a66199de",
+    "enhanced_repository": "enhansome/enhansome-jetpack-compose-learning-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome jetpack compose learning resources with stars"
+  }
+}
