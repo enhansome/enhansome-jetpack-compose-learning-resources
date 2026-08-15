@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23376
+            "stars": 23379
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T08:24:27Z",
+            "last_commit": "2026-08-15T02:02:54Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6057
+            "stars": 6059
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-06-28T12:31:21Z",
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6863
+            "stars": 6864
           }
         },
         {
@@ -228,7 +228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:30:45.843Z",
+    "last_updated": "2026-08-15T11:01:00.081Z",
     "original_repository": "androiddevnotes/awesome-jetpack-compose-learning-resources",
     "original_repository_sha": "4144b8d4cf220a5d1b1131dc88f3a647a66199de",
     "enhanced_repository": "enhansome/enhansome-jetpack-compose-learning-resources",
