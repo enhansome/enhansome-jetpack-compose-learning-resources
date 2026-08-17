@@ -62,7 +62,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Docs
 
-* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,061 | 🐛 56 | 🌐 Kotlin | 📅 2026-08-15
+* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,061 | 🐛 56 | 🌐 Kotlin | 📅 2026-08-17
 
 * [Jetpack Compose Pathways](https://developer.android.com/courses/pathways/compose) - Learn about Compose, a modern toolkit for building native Android UI. Test your knowledge of Compose and earn your Jetpack Compose badge.
 
@@ -94,7 +94,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 * <https://github.com/android/compose-samples> ⭐ 23,380 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-14 - Official Jetpack Compose Samples
 
-* <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,061 | 🐛 56 | 🌐 Kotlin | 📅 2026-08-15 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
+* <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,061 | 🐛 56 | 🌐 Kotlin | 📅 2026-08-17 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
 
 * <https://github.com/aosp-mirror/platform_frameworks_support/tree/androidx-master-dev/ui> ⚠️ Archived - AOSP mirror of Git repository on Jetpack Compose.
 
@@ -110,11 +110,11 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
   * A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
 
-* <https://github.com/Foso/Jetpack-Compose-Playground> ⭐ 3,653 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31
+* <https://github.com/Foso/Jetpack-Compose-Playground> ⭐ 3,652 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31
 
   * Collection of Jetpack Compose example code and tutorials
 
-* <https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example> ⭐ 3,452 | 🐛 18 | 🌐 Kotlin | 📅 2025-09-04
+* <https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example> ⭐ 3,451 | 🐛 18 | 🌐 Kotlin | 📅 2025-09-04
 
   * 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way.
 
@@ -122,7 +122,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
   * Compose Academy Playground is a free resource that provides snippets and practical samples on how to use Jetpack Compose for the Android platform.
 
-* <https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook> ⭐ 727 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09
+* <https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook> ⭐ 726 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09
 
   * A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌
 
@@ -281,7 +281,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-* [SSComposeCookBook: Jetpack compose UI components](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) ⭐ 727 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09 \[Aug 25, 2021]
+* [SSComposeCookBook: Jetpack compose UI components](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) ⭐ 726 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09 \[Aug 25, 2021]
 
 <br>
 
@@ -580,7 +580,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Apps
 
-* [👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps) ⭐ 1,518 | 🐛 12 | 🌐 Kotlin | 📅 2024-07-25
+* [👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps) ⭐ 1,517 | 🐛 12 | 🌐 Kotlin | 📅 2024-07-25
 
 * [Use the advanced search on GitHub and find open-source projects to your liking.](https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github)
 
@@ -684,4 +684,4 @@ See [AUTHORS](AUTHORS)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
