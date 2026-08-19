@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T09:37:35Z",
+                "last_commit": "2026-08-19T12:27:56Z",
                 "owner": "androidx",
                 "repo": "androidx",
                 "stars": 6063
@@ -202,8 +202,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:04:26.108Z",
+    "last_updated": "2026-08-19T12:40:02.560Z",
     "original_repository": "androiddevnotes/awesome-jetpack-compose-learning-resources",
+    "original_repository_id": 291113450,
     "original_repository_sha": "4144b8d4cf220a5d1b1131dc88f3a647a66199de",
     "enhanced_repository": "enhansome/enhansome-jetpack-compose-learning-resources",
     "enhanced_repository_description": null,
