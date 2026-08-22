@@ -62,7 +62,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Docs
 
-* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,065 | 🐛 56 | 🌐 Kotlin | 📅 2026-08-21
+* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,066 | 🐛 55 | 🌐 Kotlin | 📅 2026-08-22
 
 * [Jetpack Compose Pathways](https://developer.android.com/courses/pathways/compose) - Learn about Compose, a modern toolkit for building native Android UI. Test your knowledge of Compose and earn your Jetpack Compose badge.
 
@@ -92,9 +92,9 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Official Projects
 
-* <https://github.com/android/compose-samples> ⭐ 23,392 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-21 - Official Jetpack Compose Samples
+* <https://github.com/android/compose-samples> ⭐ 23,396 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-21 - Official Jetpack Compose Samples
 
-* <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,065 | 🐛 56 | 🌐 Kotlin | 📅 2026-08-21 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
+* <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,066 | 🐛 55 | 🌐 Kotlin | 📅 2026-08-22 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
 
 * <https://github.com/aosp-mirror/platform_frameworks_support/tree/androidx-master-dev/ui> ⚠️ Archived - AOSP mirror of Git repository on Jetpack Compose.
 
@@ -106,7 +106,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Resources
 
-* <https://github.com/Gurupreet/ComposeCookBook> ⭐ 6,868 | 🐛 43 | 🌐 Kotlin | 📅 2026-06-28
+* <https://github.com/Gurupreet/ComposeCookBook> ⭐ 6,870 | 🐛 43 | 🌐 Kotlin | 📅 2026-06-28
 
   * A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
 
@@ -684,4 +684,4 @@ See [AUTHORS](AUTHORS)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
