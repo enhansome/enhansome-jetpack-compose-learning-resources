@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "API Guidelines for Jetpack Compose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256589781,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T13:52:08Z",
+                "owner": "androidx",
+                "repo": "androidx",
+                "stars": 6068
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Docs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "https://github.com/android/compose-samples",
               "description": "Official Jetpack Compose Samples",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23397
+                "stars": 23399
               }
             },
             {
@@ -29,7 +51,7 @@
                 "archived": false,
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T10:45:24Z",
+                "last_commit": "2026-08-24T13:52:08Z",
                 "owner": "androidx",
                 "repo": "androidx",
                 "stars": 6068
@@ -144,7 +166,7 @@
                 "last_commit": "2024-12-26T12:14:58Z",
                 "owner": "canopas",
                 "repo": "compose-intro-showcase",
-                "stars": 614
+                "stars": 615
               }
             },
             {
@@ -199,10 +221,87 @@
         }
       ],
       "title": "Docs, Codelabs and Official Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SSComposeCookBook: Jetpack compose UI components",
+              "description": "[Aug 25, 2021]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379199800,
+                "language": "Kotlin",
+                "last_commit": "2025-05-09T11:38:19Z",
+                "owner": "SimformSolutionsPvtLtd",
+                "repo": "SSComposeCookBook",
+                "stars": 726
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Note: Find more Slides at https://cse.google.com/cse?cx=010150859881542981030%3Ahqhxyxpwtc4&ie=UTF-8&q=jetpack+compose&sa=Search"
+        }
+      ],
+      "title": "Slides"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 291133502,
+                "language": "Kotlin",
+                "last_commit": "2024-07-25T13:30:32Z",
+                "owner": "androiddevnotes",
+                "repo": "awesome-jetpack-compose-android-apps",
+                "stars": 1519
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apps"
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jetpack Compose Frequently Asked Questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219002014,
+            "language": null,
+            "last_commit": "2019-11-01T16:25:36Z",
+            "owner": "Mishkun",
+            "repo": "jetpack-compose-faq",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "FAQ on Jetpack Compose"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:13:11.792Z",
+    "last_updated": "2026-08-24T14:12:12.029Z",
     "original_repository": "androiddevnotes/awesome-jetpack-compose-learning-resources",
     "original_repository_id": 291113450,
     "original_repository_sha": "4144b8d4cf220a5d1b1131dc88f3a647a66199de",

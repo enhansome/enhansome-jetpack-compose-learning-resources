@@ -92,7 +92,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Official Projects
 
-* <https://github.com/android/compose-samples> ⭐ 23,397 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-21 - Official Jetpack Compose Samples
+* <https://github.com/android/compose-samples> ⭐ 23,399 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-21 - Official Jetpack Compose Samples
 
 * <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,068 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-24 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
 
@@ -126,7 +126,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
   * A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌
 
-* <https://github.com/canopas/Intro-showcase-view> ⭐ 614 | 🐛 7 | 🌐 Kotlin | 📅 2024-12-26
+* <https://github.com/canopas/Intro-showcase-view> ⭐ 615 | 🐛 7 | 🌐 Kotlin | 📅 2024-12-26
 
   * An android library to highlight different features of the app built using Jetpack Compose.
 
@@ -624,9 +624,9 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## FAQ on Jetpack Compose
 
-* [Find answers to frequently asked questions about Jetpack Compose!](https://jetpackcompose.app/faq)
-
 * [Jetpack Compose Frequently Asked Questions](https://github.com/Mishkun/jetpack-compose-faq) ⭐ 83 | 🐛 0 | 📅 2019-11-01
+
+* [Find answers to frequently asked questions about Jetpack Compose!](https://jetpackcompose.app/faq)
 
 * [Below FAQs are curated and taken from AMA done by Android Eng Team](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/)
 
