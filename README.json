@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23396
+                "stars": 23397
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-23T07:26:51Z",
+                "last_commit": "2026-08-24T10:45:24Z",
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6067
+                "stars": 6068
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2024-12-26T12:14:58Z",
                 "owner": "canopas",
                 "repo": "compose-intro-showcase",
-                "stars": 613
+                "stars": 614
               }
             },
             {
@@ -202,7 +202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:01:45.789Z",
+    "last_updated": "2026-08-24T11:13:11.792Z",
     "original_repository": "androiddevnotes/awesome-jetpack-compose-learning-resources",
     "original_repository_id": 291113450,
     "original_repository_sha": "4144b8d4cf220a5d1b1131dc88f3a647a66199de",
