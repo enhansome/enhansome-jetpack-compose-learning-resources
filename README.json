@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T13:52:08Z",
+                "last_commit": "2026-08-25T05:02:21Z",
                 "owner": "androidx",
                 "repo": "androidx",
                 "stars": 6068
@@ -29,7 +29,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/android/compose-samples",
+              "title": "android/compose-samples",
               "description": "Official Jetpack Compose Samples",
               "children": [],
               "repo_info": {
@@ -39,19 +39,19 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23399
+                "stars": 23402
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/androidx/androidx/tree/androidx-master-dev/ui",
+              "title": "androidx/androidx",
               "description": "Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T13:52:08Z",
+                "last_commit": "2026-08-25T05:02:21Z",
                 "owner": "androidx",
                 "repo": "androidx",
                 "stars": 6068
@@ -59,7 +59,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/aosp-mirror/platform_frameworks_support/tree/androidx-master-dev/ui",
+              "title": "aosp-mirror/platform_frameworks_support",
               "description": "AOSP mirror of Git repository on Jetpack Compose.",
               "children": [],
               "repo_info": {
@@ -81,7 +81,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Gurupreet/ComposeCookBook",
+              "title": "Gurupreet/ComposeCookBook",
               "description": null,
               "children": [],
               "repo_info": {
@@ -96,7 +96,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Foso/Jetpack-Compose-Playground",
+              "title": "Foso/Jetpack-Compose-Playground",
               "description": null,
               "children": [],
               "repo_info": {
@@ -111,7 +111,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example",
+              "title": "vinaygaba/Learn-Jetpack-Compose-By-Example",
               "description": null,
               "children": [],
               "repo_info": {
@@ -121,12 +121,12 @@
                 "last_commit": "2025-09-04T22:43:30Z",
                 "owner": "vinaygaba",
                 "repo": "Learn-Jetpack-Compose-By-Example",
-                "stars": 3450
+                "stars": 3451
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/hitherejoe/ComposeAcademy-Playground",
+              "title": "hitherejoe/ComposeAcademy-Playground",
               "description": null,
               "children": [],
               "repo_info": {
@@ -141,7 +141,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook",
+              "title": "SimformSolutionsPvtLtd/SSComposeCookBook",
               "description": null,
               "children": [],
               "repo_info": {
@@ -156,7 +156,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/canopas/Intro-showcase-view",
+              "title": "canopas/compose-intro-showcase",
               "description": null,
               "children": [],
               "repo_info": {
@@ -171,7 +171,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples",
+              "title": "MindorksOpenSource/Jetpack-Compose-Android-Examples",
               "description": null,
               "children": [],
               "repo_info": {
@@ -186,7 +186,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton",
+              "title": "SimformSolutionsPvtLtd/SSJetPackComposeProgressButton",
               "description": null,
               "children": [],
               "repo_info": {
@@ -201,7 +201,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Naveentp/Awesome-Jetpack-Compose",
+              "title": "Naveentp/Awesome-Jetpack-Compose",
               "description": null,
               "children": [],
               "repo_info": {
@@ -301,7 +301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:12.029Z",
+    "last_updated": "2026-08-25T06:07:47.410Z",
     "original_repository": "androiddevnotes/awesome-jetpack-compose-learning-resources",
     "original_repository_id": 291113450,
     "original_repository_sha": "4144b8d4cf220a5d1b1131dc88f3a647a66199de",
