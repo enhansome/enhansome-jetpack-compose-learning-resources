@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T08:11:21Z",
+                "last_commit": "2026-08-27T20:18:15Z",
                 "owner": "androidx",
                 "repo": "androidx",
                 "stars": 6071
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23412
+                "stars": 23414
               }
             },
             {
@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T08:11:21Z",
+                "last_commit": "2026-08-27T20:18:15Z",
                 "owner": "androidx",
                 "repo": "androidx",
                 "stars": 6071
@@ -91,7 +91,7 @@
                 "last_commit": "2026-06-28T12:31:21Z",
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
-                "stars": 6872
+                "stars": 6873
               }
             },
             {
@@ -301,7 +301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:57.844Z",
+    "last_updated": "2026-08-27T20:47:26.069Z",
     "original_repository_info": {
       "archived": false,
       "id": 291113450,
