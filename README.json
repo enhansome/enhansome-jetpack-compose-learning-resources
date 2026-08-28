@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T20:18:15Z",
+                "last_commit": "2026-08-28T21:09:56Z",
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6071
-              }
+                "stars": 6072
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             }
           ],
           "description": null,
@@ -36,11 +37,12 @@
                 "archived": false,
                 "id": 211288349,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T10:08:21Z",
+                "last_commit": "2026-08-28T18:18:11Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23414
-              }
+                "stars": 23419
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             },
             {
               "node_type": "item",
@@ -51,11 +53,12 @@
                 "archived": false,
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T20:18:15Z",
+                "last_commit": "2026-08-28T21:09:56Z",
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6071
-              }
+                "stars": 6072
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "aosp-mirror",
                 "repo": "platform_frameworks_support",
                 "stars": 1656
-              }
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             }
           ],
           "description": null,
@@ -92,7 +96,8 @@
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
                 "stars": 6873
-              }
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             },
             {
               "node_type": "item",
@@ -106,8 +111,9 @@
                 "last_commit": "2026-03-31T14:29:55Z",
                 "owner": "Foso",
                 "repo": "Jetpack-Compose-Playground",
-                "stars": 3654
-              }
+                "stars": 3655
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             },
             {
               "node_type": "item",
@@ -121,8 +127,9 @@
                 "last_commit": "2025-09-04T22:43:30Z",
                 "owner": "vinaygaba",
                 "repo": "Learn-Jetpack-Compose-By-Example",
-                "stars": 3451
-              }
+                "stars": 3452
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "hitherejoe",
                 "repo": "ComposeAcademy-Playground",
                 "stars": 967
-              }
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSComposeCookBook",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "canopas",
                 "repo": "compose-intro-showcase",
                 "stars": 615
-              }
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "MindorksOpenSource",
                 "repo": "Jetpack-Compose-Android-Examples",
                 "stars": 526
-              }
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSJetPackComposeProgressButton",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "Naveentp",
                 "repo": "Awesome-Jetpack-Compose",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             }
           ],
           "description": null,
@@ -240,7 +253,8 @@
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSComposeCookBook",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             }
           ],
           "description": null,
@@ -267,8 +281,9 @@
                 "last_commit": "2024-07-25T13:30:32Z",
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1519
-              }
+                "stars": 1520
+              },
+              "first_seen": "2026-08-28T21:15:27.875Z"
             }
           ],
           "description": null,
@@ -294,14 +309,15 @@
             "owner": "Mishkun",
             "repo": "jetpack-compose-faq",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.875Z"
         }
       ],
       "title": "FAQ on Jetpack Compose"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:47:26.069Z",
+    "last_updated": "2026-08-28T21:15:27.875Z",
     "original_repository_info": {
       "archived": false,
       "id": 291113450,
