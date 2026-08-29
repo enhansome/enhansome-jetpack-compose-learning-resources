@@ -62,7 +62,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Docs
 
-* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,072 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-29
+* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,073 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-29
 
 * [Jetpack Compose Pathways](https://developer.android.com/courses/pathways/compose) - Learn about Compose, a modern toolkit for building native Android UI. Test your knowledge of Compose and earn your Jetpack Compose badge.
 
@@ -92,9 +92,9 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Official Projects
 
-* <https://github.com/android/compose-samples> ⭐ 23,419 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-28 - Official Jetpack Compose Samples
+* <https://github.com/android/compose-samples> ⭐ 23,423 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-28 - Official Jetpack Compose Samples
 
-* <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,072 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-29 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
+* <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,073 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-29 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
 
 * <https://github.com/aosp-mirror/platform_frameworks_support/tree/androidx-master-dev/ui> ⚠️ Archived - AOSP mirror of Git repository on Jetpack Compose.
 
