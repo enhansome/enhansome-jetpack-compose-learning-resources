@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.",
+                "homepage": "https://android.googlesource.com/platform/frameworks/support",
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T21:09:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:26:29Z",
+                "open_issues": 57,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6072
+                "stars": 6072,
+                "topics": [
+                  "android",
+                  "jetpack",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             }
@@ -35,12 +44,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Jetpack Compose samples.",
+                "homepage": "https://developer.android.com/jetpack/compose",
                 "id": 211288349,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:18:11Z",
+                "open_issues": 8,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23419
+                "stars": 23419,
+                "topics": [
+                  "android",
+                  "jetpack-compose",
+                  "sample"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             },
@@ -51,12 +69,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.",
+                "homepage": "https://android.googlesource.com/platform/frameworks/support",
                 "id": 256589781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T21:09:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:26:29Z",
+                "open_issues": 57,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6072
+                "stars": 6072,
+                "topics": [
+                  "android",
+                  "jetpack",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             },
@@ -67,12 +94,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 3978781,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-17T18:03:28Z",
+                "open_issues": 0,
                 "owner": "aosp-mirror",
                 "repo": "platform_frameworks_support",
-                "stars": 1656
+                "stars": 1656,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             }
@@ -90,12 +122,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential",
+                "homepage": null,
                 "id": 293227683,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-06-28T12:31:21Z",
+                "open_issues": 43,
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
-                "stars": 6873
+                "stars": 6873,
+                "topics": [
+                  "android",
+                  "android-ui",
+                  "compose",
+                  "declarative-ui",
+                  "jetpack",
+                  "jetpack-compose",
+                  "jetpackcompose",
+                  "kotlin",
+                  "kotlin-android"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             },
@@ -106,12 +153,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community-driven collection of Jetpack Compose example code and tutorials :rocket:  https://foso.github.io/compose",
+                "homepage": "https://foso.github.io/compose",
                 "id": 187719625,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-03-31T14:29:55Z",
+                "open_issues": 16,
                 "owner": "Foso",
                 "repo": "Jetpack-Compose-Playground",
-                "stars": 3655
+                "stars": 3655,
+                "topics": [
+                  "android",
+                  "androidx",
+                  "compose",
+                  "hacktoberfest",
+                  "jetpack",
+                  "jetpack-android",
+                  "jetpack-compose",
+                  "kotlin",
+                  "kotlin-android",
+                  "sample-app"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             },
@@ -122,12 +185,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 This project contains various examples that show how you would do things the \"Jetpack Compose\" way",
+                "homepage": "https://jetpackcompose.app/",
                 "id": 225287739,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-04T22:43:30Z",
+                "open_issues": 18,
                 "owner": "vinaygaba",
                 "repo": "Learn-Jetpack-Compose-By-Example",
-                "stars": 3452
+                "stars": 3452,
+                "topics": [
+                  "android",
+                  "android-ui",
+                  "compose",
+                  "declarative-ui",
+                  "jetpack",
+                  "jetpack-compose",
+                  "kotlin",
+                  "kotlin-android",
+                  "sample-app",
+                  "ui-toolkit"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             },
@@ -138,12 +217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playground project for the Jetpack Compose APIs",
+                "homepage": null,
                 "id": 265163836,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2021-04-08T05:27:36Z",
+                "open_issues": 2,
                 "owner": "hitherejoe",
                 "repo": "ComposeAcademy-Playground",
-                "stars": 967
+                "stars": 967,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             },
@@ -154,12 +238,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌",
+                "homepage": null,
                 "id": 379199800,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2025-05-09T11:38:19Z",
+                "open_issues": 0,
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSComposeCookBook",
-                "stars": 726
+                "stars": 726,
+                "topics": [
+                  "android",
+                  "animations",
+                  "collections",
+                  "component",
+                  "compose-examples",
+                  "compose-library",
+                  "cookbook",
+                  "declarative-ui",
+                  "google-maps",
+                  "jetpack-compose",
+                  "jetpack-compose-animation",
+                  "jetpack-google-maps",
+                  "kotlin",
+                  "kotlin-android",
+                  "layout",
+                  "ui-components"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             },
@@ -170,12 +276,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android - Highlight different features of the app using Jetpack Compose",
+                "homepage": "https://canopas.github.io/compose-intro-showcase/",
                 "id": 453908658,
                 "language": "Kotlin",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-26T12:14:58Z",
+                "open_issues": 7,
                 "owner": "canopas",
                 "repo": "compose-intro-showcase",
-                "stars": 615
+                "stars": 615,
+                "topics": [
+                  "android",
+                  "android-development",
+                  "android-library",
+                  "app-intro",
+                  "feature",
+                  "intro",
+                  "jetpack",
+                  "jetpack-android",
+                  "jetpack-compose",
+                  "jetpack-compose-tutorial",
+                  "kotlin",
+                  "kotlin-library",
+                  "material-design",
+                  "showcase"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             },
@@ -186,12 +312,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn Jetpack Compose for Android by Examples. Learn how to use Jetpack Compose for Android App Development. Android’s modern toolkit for building native UI.",
+                "homepage": "https://mindorks.com",
                 "id": 309086144,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-08T20:59:04Z",
+                "open_issues": 3,
                 "owner": "MindorksOpenSource",
                 "repo": "Jetpack-Compose-Android-Examples",
-                "stars": 526
+                "stars": 526,
+                "topics": [
+                  "android-example",
+                  "compose",
+                  "compose-tutorial",
+                  "jetpack",
+                  "jetpack-android",
+                  "jetpack-compose",
+                  "kotlin-android"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             },
@@ -202,12 +341,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SSJetPackComposeProgressButton is an elegant button with a different loading animations. 🚀",
+                "homepage": null,
                 "id": 366930914,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2024-11-25T15:03:47Z",
+                "open_issues": 1,
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSJetPackComposeProgressButton",
-                "stars": 329
+                "stars": 329,
+                "topics": [
+                  "android",
+                  "animation",
+                  "animationbutton",
+                  "button",
+                  "declarative-ui",
+                  "jetpack-components",
+                  "jetpack-compose",
+                  "jetpack-compose-animation",
+                  "kotlin",
+                  "loadingbutton",
+                  "morphing",
+                  "morphing-button",
+                  "progress",
+                  "progress-bar",
+                  "progressbutton"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             },
@@ -218,12 +378,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collaborative list of awesome jetpack compose resources.",
+                "homepage": null,
                 "id": 204403017,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-06-17T05:40:56Z",
+                "open_issues": 1,
                 "owner": "Naveentp",
                 "repo": "Awesome-Jetpack-Compose",
-                "stars": 295
+                "stars": 295,
+                "topics": [
+                  "android",
+                  "declarative-ui",
+                  "jetpack-compose",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             }
@@ -247,12 +417,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌",
+                "homepage": null,
                 "id": 379199800,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2025-05-09T11:38:19Z",
+                "open_issues": 0,
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSComposeCookBook",
-                "stars": 726
+                "stars": 726,
+                "topics": [
+                  "android",
+                  "animations",
+                  "collections",
+                  "component",
+                  "compose-examples",
+                  "compose-library",
+                  "cookbook",
+                  "declarative-ui",
+                  "google-maps",
+                  "jetpack-compose",
+                  "jetpack-compose-animation",
+                  "jetpack-google-maps",
+                  "kotlin",
+                  "kotlin-android",
+                  "layout",
+                  "ui-components"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             }
@@ -276,12 +468,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
+                "homepage": null,
                 "id": 291133502,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2024-07-25T13:30:32Z",
+                "open_issues": 12,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1520
+                "stars": 1520,
+                "topics": [
+                  "accompanist",
+                  "android",
+                  "android-apps",
+                  "awesome",
+                  "beginner-friendly",
+                  "compose",
+                  "compose-ui",
+                  "coroutines",
+                  "first-issue",
+                  "flow",
+                  "hilt",
+                  "jetpack",
+                  "jetpack-compose",
+                  "kotlin",
+                  "livedata",
+                  "retrofit",
+                  "room",
+                  "viewmodel"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
             }
@@ -303,12 +519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frequently asked questions about Jetpack Compose – Android’s modern toolkit for building native UI",
+            "homepage": null,
             "id": 219002014,
             "language": null,
+            "license": null,
             "last_commit": "2019-11-01T16:25:36Z",
+            "open_issues": 0,
             "owner": "Mishkun",
             "repo": "jetpack-compose-faq",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.875Z"
         }
@@ -317,15 +538,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:27.875Z",
+    "last_updated": "2026-08-29T04:29:21.696Z",
     "original_repository_info": {
       "archived": false,
+      "description": "👓 A continuously updated list of learning Jetpack Compose for Android apps.",
+      "homepage": null,
       "id": 291113450,
       "language": "Kotlin",
+      "license": null,
       "last_commit": "2024-06-13T19:18:33Z",
+      "open_issues": 6,
       "owner": "androiddevnotes",
       "repo": "awesome-jetpack-compose-learning-resources",
-      "stars": 1518
+      "stars": 1518,
+      "topics": [
+        "android",
+        "android-apps",
+        "android-architecture",
+        "android-compose",
+        "android-jetpack",
+        "awesome",
+        "awesome-android",
+        "beginner-friendly",
+        "compose",
+        "coroutines-android",
+        "first-issue",
+        "hacktoberfest",
+        "hacktoberfest2020",
+        "jetpack-android",
+        "jetpack-compose",
+        "kotlin",
+        "learn-android",
+        "mvvm",
+        "mvvm-android"
+      ]
     },
     "original_repository_sha": "4144b8d4cf220a5d1b1131dc88f3a647a66199de",
     "enhanced_repository": "enhansome/enhansome-jetpack-compose-learning-resources",
