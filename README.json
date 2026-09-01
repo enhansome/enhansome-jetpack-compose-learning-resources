@@ -17,11 +17,11 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T16:55:15Z",
+                "last_commit": "2026-09-01T14:59:04Z",
                 "open_issues": 57,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6073,
+                "stars": 6074,
                 "topics": [
                   "android",
                   "jetpack",
@@ -53,7 +53,7 @@
                 "open_issues": 9,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23427,
+                "stars": 23429,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -74,11 +74,11 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T16:55:15Z",
+                "last_commit": "2026-09-01T14:59:04Z",
                 "open_issues": 57,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6073,
+                "stars": 6074,
                 "topics": [
                   "android",
                   "jetpack",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:42:48.757Z",
+    "last_updated": "2026-09-01T15:13:19.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A continuously updated list of learning Jetpack Compose for Android apps.",
