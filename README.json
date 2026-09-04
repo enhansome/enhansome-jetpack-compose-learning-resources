@@ -17,11 +17,11 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T14:33:52Z",
+                "last_commit": "2026-09-04T14:26:55Z",
                 "open_issues": 57,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6076,
+                "stars": 6078,
                 "topics": [
                   "android",
                   "jetpack",
@@ -53,7 +53,7 @@
                 "open_issues": 9,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23434,
+                "stars": 23433,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -74,11 +74,11 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T14:33:52Z",
+                "last_commit": "2026-09-04T14:26:55Z",
                 "open_issues": 57,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6076,
+                "stars": 6078,
                 "topics": [
                   "android",
                   "jetpack",
@@ -162,7 +162,7 @@
                 "open_issues": 16,
                 "owner": "Foso",
                 "repo": "Jetpack-Compose-Playground",
-                "stars": 3655,
+                "stars": 3656,
                 "topics": [
                   "android",
                   "androidx",
@@ -194,7 +194,7 @@
                 "open_issues": 18,
                 "owner": "vinaygaba",
                 "repo": "Learn-Jetpack-Compose-By-Example",
-                "stars": 3452,
+                "stars": 3451,
                 "topics": [
                   "android",
                   "android-ui",
@@ -247,7 +247,7 @@
                 "open_issues": 0,
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSComposeCookBook",
-                "stars": 727,
+                "stars": 726,
                 "topics": [
                   "android",
                   "animations",
@@ -426,7 +426,7 @@
                 "open_issues": 0,
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSComposeCookBook",
-                "stars": 727,
+                "stars": 726,
                 "topics": [
                   "android",
                   "animations",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:44:02.744Z",
+    "last_updated": "2026-09-04T14:34:10.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A continuously updated list of learning Jetpack Compose for Android apps.",
@@ -550,7 +550,7 @@
       "open_issues": 6,
       "owner": "androiddevnotes",
       "repo": "awesome-jetpack-compose-learning-resources",
-      "stars": 1517,
+      "stars": 1519,
       "topics": [
         "android",
         "android-apps",
