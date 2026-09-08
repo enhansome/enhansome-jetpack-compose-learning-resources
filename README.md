@@ -62,7 +62,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Docs
 
-* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,080 | 🐛 57 | 🌐 Kotlin | 📅 2026-09-07
+* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,082 | 🐛 57 | 🌐 Kotlin | 📅 2026-09-08
 
 * [Jetpack Compose Pathways](https://developer.android.com/courses/pathways/compose) - Learn about Compose, a modern toolkit for building native Android UI. Test your knowledge of Compose and earn your Jetpack Compose badge.
 
@@ -92,9 +92,9 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Official Projects
 
-* <https://github.com/android/compose-samples> ⭐ 23,438 | 🐛 8 | 🌐 Kotlin | 📅 2026-09-07 - Official Jetpack Compose Samples
+* <https://github.com/android/compose-samples> ⭐ 23,438 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-08 - Official Jetpack Compose Samples
 
-* <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,080 | 🐛 57 | 🌐 Kotlin | 📅 2026-09-07 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
+* <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,082 | 🐛 57 | 🌐 Kotlin | 📅 2026-09-08 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
 
 * <https://github.com/aosp-mirror/platform_frameworks_support/tree/androidx-master-dev/ui> ⚠️ Archived - AOSP mirror of Git repository on Jetpack Compose.
 
@@ -122,7 +122,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
   * Compose Academy Playground is a free resource that provides snippets and practical samples on how to use Jetpack Compose for the Android platform.
 
-* <https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook> ⭐ 726 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09
+* <https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook> ⭐ 725 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09
 
   * A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌
 
@@ -281,7 +281,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-* [SSComposeCookBook: Jetpack compose UI components](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) ⭐ 726 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09 \[Aug 25, 2021]
+* [SSComposeCookBook: Jetpack compose UI components](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) ⭐ 725 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09 \[Aug 25, 2021]
 
 <br>
 
@@ -684,4 +684,4 @@ See [AUTHORS](AUTHORS)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
