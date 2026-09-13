@@ -18,10 +18,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-12T11:48:55Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6088,
+                "stars": 6089,
                 "topics": [
                   "android",
                   "jetpack",
@@ -53,7 +53,7 @@
                 "open_issues": 9,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23456,
+                "stars": 23458,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -75,10 +75,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-12T11:48:55Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6088,
+                "stars": 6089,
                 "topics": [
                   "android",
                   "jetpack",
@@ -127,11 +127,11 @@
                 "id": 293227683,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-12T13:40:59Z",
+                "last_commit": "2026-09-12T14:18:19Z",
                 "open_issues": 5,
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
-                "stars": 6875,
+                "stars": 6876,
                 "topics": [
                   "android",
                   "android-ui",
@@ -226,7 +226,7 @@
                 "open_issues": 2,
                 "owner": "hitherejoe",
                 "repo": "ComposeAcademy-Playground",
-                "stars": 967,
+                "stars": 966,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
@@ -477,7 +477,7 @@
                 "open_issues": 12,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1522,
+                "stars": 1521,
                 "topics": [
                   "accompanist",
                   "android",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:45:57.229Z",
+    "last_updated": "2026-09-13T14:42:52.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A continuously updated list of learning Jetpack Compose for Android apps.",
