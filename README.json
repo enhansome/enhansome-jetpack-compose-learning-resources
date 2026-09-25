@@ -17,11 +17,11 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T15:30:27Z",
+                "last_commit": "2026-09-25T15:17:51Z",
                 "open_issues": 58,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6100,
+                "stars": 6099,
                 "topics": [
                   "android",
                   "jetpack",
@@ -49,11 +49,11 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T20:43:04Z",
+                "last_commit": "2026-09-25T08:29:01Z",
                 "open_issues": 13,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23476,
+                "stars": 23478,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -74,11 +74,11 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T15:30:27Z",
+                "last_commit": "2026-09-25T15:17:51Z",
                 "open_issues": 58,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6100,
+                "stars": 6099,
                 "topics": [
                   "android",
                   "jetpack",
@@ -285,7 +285,7 @@
                 "open_issues": 7,
                 "owner": "canopas",
                 "repo": "compose-intro-showcase",
-                "stars": 616,
+                "stars": 617,
                 "topics": [
                   "android",
                   "android-development",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:30:43.531Z",
+    "last_updated": "2026-09-25T15:35:01.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A continuously updated list of learning Jetpack Compose for Android apps.",
