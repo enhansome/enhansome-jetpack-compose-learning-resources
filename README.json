@@ -17,11 +17,11 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T01:15:29Z",
+                "last_commit": "2026-09-28T18:02:44Z",
                 "open_issues": 58,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6102,
+                "stars": 6100,
                 "topics": [
                   "android",
                   "jetpack",
@@ -49,11 +49,11 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T08:29:01Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-28T15:05:27Z",
+                "open_issues": 12,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23481,
+                "stars": 23483,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -74,11 +74,11 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T01:15:29Z",
+                "last_commit": "2026-09-28T18:02:44Z",
                 "open_issues": 58,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6102,
+                "stars": 6100,
                 "topics": [
                   "android",
                   "jetpack",
@@ -131,7 +131,7 @@
                 "open_issues": 7,
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
-                "stars": 6878,
+                "stars": 6879,
                 "topics": [
                   "android",
                   "android-ui",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:19:45.970Z",
+    "last_updated": "2026-09-28T18:16:25.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A continuously updated list of learning Jetpack Compose for Android apps.",
