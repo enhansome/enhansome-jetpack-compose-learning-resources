@@ -92,7 +92,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Official Projects
 
-* <https://github.com/android/compose-samples> ⭐ 23,493 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-02 - Official Jetpack Compose Samples
+* <https://github.com/android/compose-samples> ⭐ 23,494 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-02 - Official Jetpack Compose Samples
 
 * <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,103 | 🐛 61 | 🌐 Kotlin | 📅 2026-10-03 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
 
