@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "API Guidelines for Jetpack Compose",
-              "description": null,
+              "description": "androidx/androidx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,7 +17,7 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:59:21Z",
+                "last_commit": "2026-10-03T00:32:45Z",
                 "open_issues": 61,
                 "owner": "androidx",
                 "repo": "androidx",
@@ -53,7 +53,7 @@
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23491,
+                "stars": 23493,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -74,7 +74,7 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:59:21Z",
+                "last_commit": "2026-10-03T00:32:45Z",
                 "open_issues": 61,
                 "owner": "androidx",
                 "repo": "androidx",
@@ -118,7 +118,7 @@
             {
               "node_type": "item",
               "title": "Gurupreet/ComposeCookBook",
-              "description": null,
+              "description": "Gurupreet/ComposeCookBook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -127,8 +127,8 @@
                 "id": 293227683,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:05:14Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-03T00:06:49Z",
+                "open_issues": 8,
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
                 "stars": 6881,
@@ -149,7 +149,7 @@
             {
               "node_type": "item",
               "title": "Foso/Jetpack-Compose-Playground",
-              "description": null,
+              "description": "Foso/Jetpack-Compose-Playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -181,7 +181,7 @@
             {
               "node_type": "item",
               "title": "vinaygaba/Learn-Jetpack-Compose-By-Example",
-              "description": null,
+              "description": "vinaygaba/Learn-Jetpack-Compose-By-Example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -213,7 +213,7 @@
             {
               "node_type": "item",
               "title": "hitherejoe/ComposeAcademy-Playground",
-              "description": null,
+              "description": "hitherejoe/ComposeAcademy-Playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -234,7 +234,7 @@
             {
               "node_type": "item",
               "title": "SimformSolutionsPvtLtd/SSComposeCookBook",
-              "description": null,
+              "description": "SimformSolutionsPvtLtd/SSComposeCookBook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -272,7 +272,7 @@
             {
               "node_type": "item",
               "title": "canopas/compose-intro-showcase",
-              "description": null,
+              "description": "canopas/compose-intro-showcase",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -308,7 +308,7 @@
             {
               "node_type": "item",
               "title": "MindorksOpenSource/Jetpack-Compose-Android-Examples",
-              "description": null,
+              "description": "MindorksOpenSource/Jetpack-Compose-Android-Examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -337,7 +337,7 @@
             {
               "node_type": "item",
               "title": "SimformSolutionsPvtLtd/SSJetPackComposeProgressButton",
-              "description": null,
+              "description": "SimformSolutionsPvtLtd/SSJetPackComposeProgressButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -374,7 +374,7 @@
             {
               "node_type": "item",
               "title": "Naveentp/Awesome-Jetpack-Compose",
-              "description": null,
+              "description": "Naveentp/Awesome-Jetpack-Compose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -464,7 +464,7 @@
             {
               "node_type": "item",
               "title": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
-              "description": null,
+              "description": "androiddevnotes/awesome-jetpack-compose-android-apps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -515,7 +515,7 @@
         {
           "node_type": "item",
           "title": "Jetpack Compose Frequently Asked Questions",
-          "description": null,
+          "description": "Mishkun/jetpack-compose-faq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:22:29.189Z",
+    "last_updated": "2026-10-03T04:57:16.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A continuously updated list of learning Jetpack Compose for Android apps.",
