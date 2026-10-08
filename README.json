@@ -17,7 +17,7 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T17:26:20Z",
+                "last_commit": "2026-10-08T17:32:59Z",
                 "open_issues": 61,
                 "owner": "androidx",
                 "repo": "androidx",
@@ -74,7 +74,7 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T17:26:20Z",
+                "last_commit": "2026-10-08T17:32:59Z",
                 "open_issues": 61,
                 "owner": "androidx",
                 "repo": "androidx",
@@ -194,7 +194,7 @@
                 "open_issues": 18,
                 "owner": "vinaygaba",
                 "repo": "Learn-Jetpack-Compose-By-Example",
-                "stars": 3451,
+                "stars": 3453,
                 "topics": [
                   "android",
                   "android-ui",
@@ -321,7 +321,7 @@
                 "open_issues": 3,
                 "owner": "MindorksOpenSource",
                 "repo": "Jetpack-Compose-Android-Examples",
-                "stars": 527,
+                "stars": 528,
                 "topics": [
                   "android-example",
                   "compose",
@@ -477,7 +477,7 @@
                 "open_issues": 12,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": [
                   "accompanist",
                   "android",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:33:22.682Z",
+    "last_updated": "2026-10-08T17:36:28.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A continuously updated list of learning Jetpack Compose for Android apps.",
@@ -550,7 +550,7 @@
       "open_issues": 6,
       "owner": "androiddevnotes",
       "repo": "awesome-jetpack-compose-learning-resources",
-      "stars": 1518,
+      "stars": 1519,
       "topics": [
         "android",
         "android-apps",
