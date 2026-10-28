@@ -17,8 +17,8 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T15:51:21Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-28T16:38:00Z",
+                "open_issues": 63,
                 "owner": "androidx",
                 "repo": "androidx",
                 "stars": 6121,
@@ -49,8 +49,8 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T14:46:07Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-28T03:06:42Z",
+                "open_issues": 9,
                 "owner": "android",
                 "repo": "compose-samples",
                 "stars": 23545,
@@ -74,8 +74,8 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T15:51:21Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-28T16:38:00Z",
+                "open_issues": 63,
                 "owner": "androidx",
                 "repo": "androidx",
                 "stars": 6121,
@@ -131,7 +131,7 @@
                 "open_issues": 8,
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
-                "stars": 6885,
+                "stars": 6886,
                 "topics": [
                   "android",
                   "android-ui",
@@ -162,7 +162,7 @@
                 "open_issues": 16,
                 "owner": "Foso",
                 "repo": "Jetpack-Compose-Playground",
-                "stars": 3657,
+                "stars": 3656,
                 "topics": [
                   "android",
                   "androidx",
@@ -194,7 +194,7 @@
                 "open_issues": 18,
                 "owner": "vinaygaba",
                 "repo": "Learn-Jetpack-Compose-By-Example",
-                "stars": 3451,
+                "stars": 3449,
                 "topics": [
                   "android",
                   "android-ui",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T16:02:43.483Z",
+    "last_updated": "2026-10-28T16:50:11.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A continuously updated list of learning Jetpack Compose for Android apps.",
