@@ -17,11 +17,11 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T08:16:27Z",
+                "last_commit": "2026-11-01T11:15:39Z",
                 "open_issues": 62,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6129,
+                "stars": 6130,
                 "topics": [
                   "android",
                   "jetpack",
@@ -53,7 +53,7 @@
                 "open_issues": 9,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23547,
+                "stars": 23551,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -74,11 +74,11 @@
                 "id": 256589781,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T08:16:27Z",
+                "last_commit": "2026-11-01T11:15:39Z",
                 "open_issues": 62,
                 "owner": "androidx",
                 "repo": "androidx",
-                "stars": 6129,
+                "stars": 6130,
                 "topics": [
                   "android",
                   "jetpack",
@@ -127,8 +127,8 @@
                 "id": 293227683,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:06:49Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-01T15:53:39Z",
+                "open_issues": 22,
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
                 "stars": 6889,
@@ -162,7 +162,7 @@
                 "open_issues": 16,
                 "owner": "Foso",
                 "repo": "Jetpack-Compose-Playground",
-                "stars": 3657,
+                "stars": 3656,
                 "topics": [
                   "android",
                   "androidx",
@@ -226,7 +226,7 @@
                 "open_issues": 2,
                 "owner": "hitherejoe",
                 "repo": "ComposeAcademy-Playground",
-                "stars": 965,
+                "stars": 964,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.875Z"
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:53:13.815Z",
+    "last_updated": "2026-11-01T16:55:11.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A continuously updated list of learning Jetpack Compose for Android apps.",
