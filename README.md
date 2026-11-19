@@ -62,7 +62,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Docs
 
-* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,140 | 🐛 64 | 🌐 Kotlin | 📅 2026-11-18
+* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,143 | 🐛 64 | 🌐 Kotlin | 📅 2026-11-19
 
 * [Jetpack Compose Pathways](https://developer.android.com/courses/pathways/compose) - Learn about Compose, a modern toolkit for building native Android UI. Test your knowledge of Compose and earn your Jetpack Compose badge.
 
@@ -92,9 +92,9 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Official Projects
 
-* <https://github.com/android/compose-samples> ⭐ 23,582 | 🐛 10 | 🌐 Kotlin | 📅 2026-11-16 - Official Jetpack Compose Samples
+* <https://github.com/android/compose-samples> ⭐ 23,568 | 🐛 11 | 🌐 Kotlin | 📅 2026-11-19 - Official Jetpack Compose Samples
 
-* <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,140 | 🐛 64 | 🌐 Kotlin | 📅 2026-11-18 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
+* <https://github.com/androidx/androidx/tree/androidx-master-dev/ui> ⭐ 6,143 | 🐛 64 | 🌐 Kotlin | 📅 2026-11-19 - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
 
 * <https://github.com/aosp-mirror/platform_frameworks_support/tree/androidx-master-dev/ui> ⚠️ Archived - AOSP mirror of Git repository on Jetpack Compose.
 
@@ -106,15 +106,15 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Resources
 
-* <https://github.com/Gurupreet/ComposeCookBook> ⭐ 6,891 | 🐛 41 | 🌐 Kotlin | 📅 2026-11-14
+* <https://github.com/Gurupreet/ComposeCookBook> ⭐ 6,892 | 🐛 41 | 🌐 Kotlin | 📅 2026-11-14
 
   * A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
 
-* <https://github.com/Foso/Jetpack-Compose-Playground> ⭐ 3,650 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31
+* <https://github.com/Foso/Jetpack-Compose-Playground> ⭐ 3,649 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31
 
   * Collection of Jetpack Compose example code and tutorials
 
-* <https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example> ⭐ 3,445 | 🐛 18 | 🌐 Kotlin | 📅 2025-09-04
+* <https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example> ⭐ 3,444 | 🐛 18 | 🌐 Kotlin | 📅 2025-09-04
 
   * 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way.
 
@@ -130,7 +130,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
   * An android library to highlight different features of the app built using Jetpack Compose.
 
-* <https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples> ⭐ 531 | 🐛 3 | 🌐 Kotlin | 📅 2023-05-08
+* <https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples> ⭐ 530 | 🐛 3 | 🌐 Kotlin | 📅 2023-05-08
 
   * Learn Jetpack Compose for Android by Examples. Learn how to use Jetpack Compose for Android App Development. Android’s modern toolkit for building native UI.
 
@@ -684,4 +684,4 @@ See [AUTHORS](AUTHORS)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
